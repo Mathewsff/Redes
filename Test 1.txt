@@ -1,0 +1,233 @@
+Informe o IP/URL de teste.
+youtube.com
+_________________________________________________________________________________
+Teste numero 1 iniciado:
+Tempo Executando: 11.13s
+Velocidade: 22497.80Kbps
+
+Disparando youtube.com [2800:3f0:4004:800::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:800::200e: tempo=9ms
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=9ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=9ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=15ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=12ms 
+
+Estatísticas do Ping para 2800:3f0:4004:800::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 9ms, Máximo = 15ms, Média = 10ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 2 iniciado:
+Tempo Executando: 32.25s
+Velocidade: 17933.06Kbps
+
+Disparando youtube.com [2800:3f0:4004:800::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:800::200e: tempo=14ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=44ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=20ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=107ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=12ms 
+
+Estatísticas do Ping para 2800:3f0:4004:800::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 10ms, Máximo = 107ms, Média = 25ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 3 iniciado:
+Tempo Executando: 53.26s
+Velocidade: 18854.82Kbps
+
+Disparando youtube.com [2800:3f0:4004:800::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:800::200e: tempo=8ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=9ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=9ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=25ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=12ms 
+
+Estatísticas do Ping para 2800:3f0:4004:800::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 8ms, Máximo = 25ms, Média = 11ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 4 iniciado:
+Tempo Executando: 74.16s
+Velocidade: 19375.72Kbps
+
+Disparando youtube.com [2800:3f0:4004:800::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=19ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=9ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+
+Estatísticas do Ping para 2800:3f0:4004:800::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 9ms, Máximo = 19ms, Média = 11ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 5 iniciado:
+Tempo Executando: 94.92s
+Velocidade: 20638.91Kbps
+
+Disparando youtube.com [2800:3f0:4004:800::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:800::200e: tempo=9ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=14ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:800::200e: tempo=11ms 
+
+Estatísticas do Ping para 2800:3f0:4004:800::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 9ms, Máximo = 14ms, Média = 11ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 6 iniciado:
+Tempo Executando: 116.37s
+Velocidade: 20754.58Kbps
+
+Disparando youtube.com [2800:3f0:4004:802::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=14ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+
+Estatísticas do Ping para 2800:3f0:4004:802::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 10ms, Máximo = 14ms, Média = 11ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 7 iniciado:
+Tempo Executando: 137.43s
+Velocidade: 21238.67Kbps
+
+Disparando youtube.com [2800:3f0:4004:802::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=96ms 
+
+Estatísticas do Ping para 2800:3f0:4004:802::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 10ms, Máximo = 96ms, Média = 19ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 8 iniciado:
+Tempo Executando: 158.57s
+Velocidade: 19016.50Kbps
+
+Disparando youtube.com [2800:3f0:4004:802::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=18ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=22ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+
+Estatísticas do Ping para 2800:3f0:4004:802::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 10ms, Máximo = 22ms, Média = 12ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 9 iniciado:
+Tempo Executando: 181.76s
+Velocidade: 22002.87Kbps
+
+Disparando youtube.com [2800:3f0:4004:802::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=13ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
+
+Estatísticas do Ping para 2800:3f0:4004:802::200e:
+    Pacotes: Enviados = 10, Recebidos = 10, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 10ms, Máximo = 13ms, Média = 11ms
+0
+_________________________________________________________________________________
+_________________________________________________________________________________
+Teste numero 10 iniciado:
+Tempo Executando: 202.68s
+Velocidade: 21769.03Kbps
+
+Disparando youtube.com [2800:3f0:4004:802::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:802::200e: tempo=9ms
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=10ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=12ms 
+Resposta de 2800:3f0:4004:802::200e: tempo=11ms 
