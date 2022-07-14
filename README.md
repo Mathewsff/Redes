@@ -19,6 +19,12 @@ Principalmente no protocolo TCP onde se observou como a velocidade de banda perm
 
 Foi observado também como esses protocolos mitigam problemas de banda nos seus respectivos cenários através de uma analise do Buffer.
 
+Para a realização de testes neste formato é necessario:
+  Banda Larga
+  Vídeos/Livestreams hospedados no Youtube
+  Wireshark instalado localmente
+  Python
+  
 Autoria:
   Mathews Vaz Reis
   Palloma da Silva Machado Nunes
